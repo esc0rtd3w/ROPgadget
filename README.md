@@ -2,6 +2,9 @@
 Added Support For Playstation 3 (PS3)
 ================
 
+Thanks to Willerson for getting the PS3 PPC arch recognized! :)
+
+
 
 
 Original Readme Below
