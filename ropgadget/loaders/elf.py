@@ -22,7 +22,8 @@ class ELFFlags(object):
     EM_ARM      = 0x28
     EM_MIPS     = 0x08
     EM_SPARCv8p = 0x12
-    EM_PowerPC  = 0x14
+    #EM_PowerPC  = 0x14 # Original Value
+    EM_PowerPC  = 0x15 # PS3 Compatible
     EM_ARM64    = 0xb7
 
 class Elf32_Ehdr_LSB(LittleEndianStructure):
